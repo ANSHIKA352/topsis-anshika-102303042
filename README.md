@@ -23,8 +23,9 @@ pip install TOPSIS-ANSHIKA-102303042
 ---
 
 ## Usage (Command Line)
+```bash
 topsis <InputDataFile> <Weights> <Impacts> <OutputResultFile>
-
+```
 ---
 
 ### Example
@@ -76,6 +77,7 @@ Higher score indicates a better alternative.
 ##  Conclusion
 This package provides a simple and effective way to perform TOPSIS analysis using Python.
 It is useful for decision-making problems involving multiple criteria.
+
 
 
 
